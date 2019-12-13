@@ -1,0 +1,26 @@
+{
+  "name": "GraphQServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferko18/GraphQL-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferko18/GraphQL-Server/issues"
+  },
+  "homepage": "https://github.com/ferko18/GraphQL-Server#readme",
+  "dependencies": {
+    "apollo-server": "^2.9.13",
+    "dotenv": "^8.2.0",
+    "graphql": "^14.5.8",
+    "mongoose": "^5.8.0"
+  }
+}
